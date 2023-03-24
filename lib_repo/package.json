@@ -1,0 +1,17 @@
+{
+  "name": "lib_repo",
+  "version": "1.0.0",
+  "description": "sub_repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avtaniket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "7.0.3"
+  }
+}

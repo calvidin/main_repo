@@ -1,0 +1,3 @@
+[submodule "lib_repo"]
+	path = lib_repo
+	url = https://github.com/calvidin/lib_repo.git

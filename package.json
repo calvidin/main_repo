@@ -1,0 +1,23 @@
+{
+  "name": "main_repo",
+  "version": "1.0.0",
+  "description": "main_repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvidin/main_repo.git"
+  },
+  "author": "avtaniket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvidin/main_repo/issues"
+  },
+  "homepage": "https://github.com/calvidin/main_repo#readme",
+  "dependencies": {
+    "librepo": "./lib_repo",
+    "express": "4.18.2"
+  }
+}
